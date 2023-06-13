@@ -116,5 +116,17 @@
 		"meshName" : "watertower.obj",
 		"useCollision" : true,
 		"footstepSound" : "metal"
+	},
+	"TeleportMadSpawn":
+	{
+		"meshName" : "teleportfalloutA.obj",
+		"trigger" : true,
+		"triggerTeleport" : "TeleportMadSpawnTarget"
+	},
+	"TeleportMadSpawnTarget":
+	{
+		"meshName" : "teleportfalloutB.obj",
+		"useCollision" : false
+		
 	}
 }
