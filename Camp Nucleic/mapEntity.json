@@ -87,7 +87,8 @@
 		"platform" : true,
 		"platformSpeed" : 1.4,
 		"platformStartMove" : true,
-		"doorSound" : "first.wav"
+		"doorSound" : "first.wav",
+		"platformStartDelay" : 50.0
 	},
 	"VanDoor":
 	{
@@ -95,7 +96,8 @@
 		"useCollision" : true,
 		"platform" : true,
 		"platformSpeed" : 1.4,
-		"platformStartMove" : true
+		"platformStartMove" : true,
+		"platformStartDelay" : 50.0
 	},
 	"Gate":
 	{
@@ -103,7 +105,8 @@
 		"useCollision" : true,
 		"platform" : true,
 		"platformSpeed" : 1.6,
-		"platformStartMove" : true
+		"platformStartMove" : true,
+		"platformStartDelay" : 50.0
 	},
 	"BigTree":
 	{
