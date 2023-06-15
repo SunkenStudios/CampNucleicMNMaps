@@ -88,7 +88,8 @@
 		"platformSpeed" : 1.4,
 		"platformStartMove" : true,
 		"doorSound" : "first.wav",
-		"platformStartDelay" : 50.0
+		"platformStartDelay" : 50.0,
+		"footstepSound" : "metal"
 	},
 	"VanDoor":
 	{
@@ -97,7 +98,8 @@
 		"platform" : true,
 		"platformSpeed" : 1.4,
 		"platformStartMove" : true,
-		"platformStartDelay" : 50.0
+		"platformStartDelay" : 50.0,
+		"footstepSound" : "metal"
 	},
 	"Gate":
 	{
